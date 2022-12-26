@@ -1,2 +1,4 @@
 # ALURAMIDI
-Projeto simples, o foco principal foi criar uma bateria eletrônica.  
+
+
+Projeto simples de uma bateria eletronica, desenvolvido em HTML, CSS e JavaScript.
